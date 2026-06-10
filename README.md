@@ -1,6 +1,6 @@
 👋 Hi, I’m James
 
-I’m a freelancer with over 15 years of experience building, automating, and optimising financial data systems for insurance and enterprise clients. My background spans technical business analysis, building ETL pipelines, data modelling, creating analytics, and Python automation, with a particular focus on Python, IBM TM1 / Planning Analytics, Microsoft data wharehousing products and Tableau.
+I’m a freelancer with over 15 years of experience building, automating, and optimising financial data systems for insurance and enterprise clients. My background spans technical business analysis, building ETL pipelines, data modelling, creating analytics, and Python automation, with a particular focus on Python, IBM TM1 / Planning Analytics, Microsoft data warehousing products and Tableau.
 
 🚀 What I Do
 I am focussed on advancing my career with Python and looking to pick up projects in analytics, ETL and automation, building on my experience in insurance and financial services.
